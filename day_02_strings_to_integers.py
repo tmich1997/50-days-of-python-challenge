@@ -26,7 +26,7 @@ def check_duplicates(lst_dup):
     else:
         return "No duplicates"
 
-lst_2 = ['apple', 'orange', 'peach', 'orange', 'apple']
+lst_2 = ['apple', 'orange', 'peach', 'orange', 'apple', 'apple']
 
 func_call_2 = check_duplicates(lst_2)
 print(func_call_2)
