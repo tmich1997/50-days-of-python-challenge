@@ -4,7 +4,7 @@ def divide_or_square(num):
     if num % 5 == 0:
         return round(num ** 0.5, 2)
     else:
-        return num % 5
+        return num %5
 
 result = divide_or_square(10)  
 
