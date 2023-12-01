@@ -1,6 +1,6 @@
 # Day 06, User Name Generator
 
-# library for regex
+# library for rege
 import re
 
 pattern = r'(.*)@'
