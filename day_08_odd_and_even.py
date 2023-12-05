@@ -1,4 +1,4 @@
-# Day 07, A String Range
+# Day 08, Odd and Even
 
 def odd_even(lst_numbers):
     max_num = lst_numbers[0]
